@@ -1,0 +1,12 @@
+D:\Georgi\Събитийно програмиране\week 4\EDD2018Project\ToDoList\ToDoList.Service\bin\Debug\netcoreapp2.1\ToDoList.Service.deps.json
+D:\Georgi\Събитийно програмиране\week 4\EDD2018Project\ToDoList\ToDoList.Service\bin\Debug\netcoreapp2.1\ToDoList.Service.dll
+D:\Georgi\Събитийно програмиране\week 4\EDD2018Project\ToDoList\ToDoList.Service\bin\Debug\netcoreapp2.1\ToDoList.Service.pdb
+D:\Georgi\Събитийно програмиране\week 4\EDD2018Project\ToDoList\ToDoList.Service\bin\Debug\netcoreapp2.1\ToDoList.Data.dll
+D:\Georgi\Събитийно програмиране\week 4\EDD2018Project\ToDoList\ToDoList.Service\bin\Debug\netcoreapp2.1\ToDoList.Data.pdb
+D:\Georgi\Събитийно програмиране\week 4\EDD2018Project\ToDoList\ToDoList.Service\obj\Debug\netcoreapp2.1\ToDoList.Service.csprojAssemblyReference.cache
+D:\Georgi\Събитийно програмиране\week 4\EDD2018Project\ToDoList\ToDoList.Service\obj\Debug\netcoreapp2.1\ToDoList.Service.csproj.CoreCompileInputs.cache
+D:\Georgi\Събитийно програмиране\week 4\EDD2018Project\ToDoList\ToDoList.Service\obj\Debug\netcoreapp2.1\ToDoList.Service.AssemblyInfoInputs.cache
+D:\Georgi\Събитийно програмиране\week 4\EDD2018Project\ToDoList\ToDoList.Service\obj\Debug\netcoreapp2.1\ToDoList.Service.AssemblyInfo.cs
+D:\Georgi\Събитийно програмиране\week 4\EDD2018Project\ToDoList\ToDoList.Service\obj\Debug\netcoreapp2.1\ToDoList.Service.csproj.CopyComplete
+D:\Georgi\Събитийно програмиране\week 4\EDD2018Project\ToDoList\ToDoList.Service\obj\Debug\netcoreapp2.1\ToDoList.Service.dll
+D:\Georgi\Събитийно програмиране\week 4\EDD2018Project\ToDoList\ToDoList.Service\obj\Debug\netcoreapp2.1\ToDoList.Service.pdb
