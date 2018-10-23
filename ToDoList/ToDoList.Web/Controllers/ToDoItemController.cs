@@ -55,7 +55,7 @@ namespace ToDoList.Web.Controllers
 
             var entity = mapper.Map<ToDoModel>(item);
 
-            return CreatedAtRoute("GetTodo", new { id = entity.Id }, entity);
+            return CreatedAtRoute("GetTodoitem", new { id = entity.Id }, entity);
         }
 
         [HttpPut("{id}")]
@@ -65,11 +65,9 @@ namespace ToDoList.Web.Controllers
             if (item == null)
                 return NotFound();
 
-            //item.Name = model.Name;
-            //item.Description = model.Description;
-            //item.CreationDate = model.CreationDate;
-            item = mapper.Map<ToDoItem>(model);
-            item.Id = id;
+            model.Id = item.Id;
+            mapper.Map(model, item);
+            
             toDoItemService.Edit(item);
 
             return NoContent();
