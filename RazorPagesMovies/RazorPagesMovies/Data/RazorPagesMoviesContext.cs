@@ -14,6 +14,7 @@ namespace RazorPagesMovies.Models
         {
             base.OnModelCreating(modelBuilder);
 
+            //this is another way to seed the database
             modelBuilder.Entity<Movie>().HasData(
                 new Movie
                 {
