@@ -12224,11 +12224,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Georgi\\Събитийно програмиране\\week 5\\RazorPagesMovies\\RazorPagesMovies\\RazorPagesMovies.csproj",
+      "projectUniqueName": "D:\\Georgi\\Събитийно програмиране\\week 4\\EDD2018Project\\RazorPagesMovies\\RazorPagesMovies\\RazorPagesMovies.csproj",
       "projectName": "RazorPagesMovies",
-      "projectPath": "D:\\Georgi\\Събитийно програмиране\\week 5\\RazorPagesMovies\\RazorPagesMovies\\RazorPagesMovies.csproj",
+      "projectPath": "D:\\Georgi\\Събитийно програмиране\\week 4\\EDD2018Project\\RazorPagesMovies\\RazorPagesMovies\\RazorPagesMovies.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Georgi\\Събитийно програмиране\\week 5\\RazorPagesMovies\\RazorPagesMovies\\obj\\",
+      "outputPath": "D:\\Georgi\\Събитийно програмиране\\week 4\\EDD2018Project\\RazorPagesMovies\\RazorPagesMovies\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
